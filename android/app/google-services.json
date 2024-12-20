@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "204378825312",
+    "project_id": "mega-market-773aa",
+    "storage_bucket": "mega-market-773aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204378825312:android:e041d90c232952bcd95905",
+        "android_client_info": {
+          "package_name": "com.example.admin_of_online_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204378825312-lqioug44sdv7gscvtvihr59a4cnpmauq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKTP6T56nNxwBI-4pURxaVkOCFGetBBPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204378825312-lqioug44sdv7gscvtvihr59a4cnpmauq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204378825312:android:b8a6e21f79cf19fcd95905",
+        "android_client_info": {
+          "package_name": "com.example.online_shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204378825312-lqioug44sdv7gscvtvihr59a4cnpmauq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKTP6T56nNxwBI-4pURxaVkOCFGetBBPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204378825312-lqioug44sdv7gscvtvihr59a4cnpmauq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
